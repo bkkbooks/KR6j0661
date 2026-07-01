@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0661/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五大牛玉雨寶陀羅尼儀軌
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0201.xml
+    old_id: X02n0201
+hash: sha256:02433ab15dcd8e59671f9d518d57e93459bb5eeaf18b9bb0db9b48f6fc9fdd7e

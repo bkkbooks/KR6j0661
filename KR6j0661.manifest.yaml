@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0661/v1
+canonical_location: https://kanripo.org/bkk/KR6j0661/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 五大牛玉雨寶陀羅尼儀軌
+  identifiers:
+    alt_id:
+    - X02n0201
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0201.xml
+    old_id: X02n0201
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0661_000.yaml, hash: 'sha256:02433ab15dcd8e59671f9d518d57e93459bb5eeaf18b9bb0db9b48f6fc9fdd7e'}
+  - {seq: 1, filename: KR6j0661_001.yaml, hash: 'sha256:eb5c49835fa502d0bb0874de25b0599d85c7b046b8fe55a9003ba48f8842dfdc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0661_001.markers.yaml, hash: 'sha256:6a6919d9309573906a0e8e6e3560a9827d793b895bdd6ca7cbdeab2c5515dba0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0661_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1913
+  label: 五大牛玉雨寶陀羅尼儀軌
+  type: juan
+  level: 1
+hash: sha256:a2adab2ff46f17ebc16107d5c343c4e487ad716c1d95ef143235c2057d7e23e6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
