@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0661_000.yaml, hash: 'sha256:02433ab15dcd8e59671f9d518d57e93459bb5eeaf18b9bb0db9b48f6fc9fdd7e'}
-  - {seq: 1, filename: KR6j0661_001.yaml, hash: 'sha256:eb5c49835fa502d0bb0874de25b0599d85c7b046b8fe55a9003ba48f8842dfdc'}
+  - {seq: 1, filename: KR6j0661_001.yaml, hash: 'sha256:2fe931ef6a9438ceb1f264c4d7b091dfe2dac652c426e439f5dbbed8a8ccd1ad'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0661_001.markers.yaml, hash: 'sha256:6a6919d9309573906a0e8e6e3560a9827d793b895bdd6ca7cbdeab2c5515dba0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0661_000.markers.yaml, hash: 'sha256:9bb291c00d113dcba139e44d8ba9d7e581864bee5358328887095e88366a5d1d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0661_001.markers.yaml, hash: 'sha256:6d5874d47ad6d8fb5f973fe5cc738af70273b9e4c5b36a27210421e98a41433c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 五大牛玉雨寶陀羅尼儀軌
   type: juan
   level: 1
-hash: sha256:a2adab2ff46f17ebc16107d5c343c4e487ad716c1d95ef143235c2057d7e23e6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e0f2dc6e09067d3df51fbba78810552b4bdb54543403c55c98f99822af70023c
