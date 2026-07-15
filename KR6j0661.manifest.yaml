@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0661/v1
 canonical_location: https://kanripo.org/bkk/KR6j0661/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 五大牛玉雨寶陀羅尼儀軌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0661_000.yaml, hash: 'sha256:02433ab15dcd8e59671f9d518d57e93459bb5eeaf18b9bb0db9b48f6fc9fdd7e'}
-  - {seq: 1, filename: KR6j0661_001.yaml, hash: 'sha256:2fe931ef6a9438ceb1f264c4d7b091dfe2dac652c426e439f5dbbed8a8ccd1ad'}
+  - {seq: 1, filename: KR6j0661_001.yaml, hash: 'sha256:2f0fecf9392735d47c3f5bb879938b4986b0b0c64300d836cab6053a754e5289'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0661_000.markers.yaml, hash: 'sha256:9bb291c00d113dcba139e44d8ba9d7e581864bee5358328887095e88366a5d1d'}
-  - {seq: 1, role: markers, filename: assets/KR6j0661_001.markers.yaml, hash: 'sha256:6d5874d47ad6d8fb5f973fe5cc738af70273b9e4c5b36a27210421e98a41433c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0661_001.markers.yaml, hash: 'sha256:d064b707a9f230ba58b938098d49dbbec4b5d1972615c0cf2048b59b00a55560'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 五大牛玉雨寶陀羅尼儀軌
   type: juan
   level: 1
-hash: sha256:e0f2dc6e09067d3df51fbba78810552b4bdb54543403c55c98f99822af70023c
+hash: sha256:4ed96f89bf93d54efdc10ed8504ec31cc10ce4609319a72ff3ba25122ae18830
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
